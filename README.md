@@ -18,6 +18,9 @@
   - run `npm start`
   - The server will now be running. Use the following video as an example of how/what requests to send:
 
+https://github.com/ChrisDeHaan/E-commerce-BE/assets/135929135/51c46490-f112-4f2e-b931-d49dad7e9861
+
+
 
   ## License
   <a href='https://choosealicense.com/licenses/mit/' target='_blank'><img src='https://img.shields.io/badge/License-MIT-blue'></a>
